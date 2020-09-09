@@ -1,0 +1,8 @@
+{
+  "name": "Moleculer",
+  "version": "1.0.0",
+  "description": "This is example of moleculer microservice",
+  "main": "index.js",
+  "author": "camapac",
+  "license": "MIT"
+}
